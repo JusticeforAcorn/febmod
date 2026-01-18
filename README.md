@@ -1,4 +1,4 @@
-![why it not load :(](image_2026-01-17_234802269.png)
+![why it not load :(](feb.png)
 
 # About FebMod
 Imagine not having to stare at your computer all day farming. Imagine, being able to stare at Penguins instead.
