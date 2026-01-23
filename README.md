@@ -24,7 +24,7 @@ Imagine not having to stare at your computer all day farming. Imagine, being abl
 
 FebMod is a highly customizable QOL (quality of life) mod built to automate repetitive, boring processes in Hypixel Skyblock, freeing up time to do other activities while it continues long grinds, makes money, or even just stay AFK on your island or garden, while you get to rage over how cute these penguins are. Feel free to learn, or contribute, or whatever Feb decides you *will* do. He's the leader penguin.
 
-Essentially, the ultimate free macro client with penguins included making it even better. Completely open source, anyone can contribute, and add more penguins.
+Essentially, the ultimate free macro client with penguins included making it even better. Also completely open source.
 ## Contributing
 To contribute, you should:
 
