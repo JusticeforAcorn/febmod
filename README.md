@@ -22,8 +22,7 @@ Discord: https://discord.gg/tQAQXCeX4P
 # About FebMod
 Imagine not having to stare at your computer all day farming. Imagine, being able to stare at Penguins instead, as cute as the one above.
 
-FebMod is a highly customizable QOL (quality of life) mod built to automate repetitive, boring processes in Hypixel Skyblock, freeing up time to do other activities while it continues long grinds, makes money, or even just stay AFK on your island or garden, while you get to rage over how cute these penguins are. Feel free to learn, or contribute. 
-
+FebMod is a highly customizable QOL (quality of life) mod built to automate repetitive, boring processes in Hypixel Skyblock, freeing up time to do other activities while it continues long grinds, makes money, or even just stay AFK on your island or garden, while you get to rage over how cute these penguins are. Feel free to learn, or contribute, or whatever Feb decides you *will* do. He's the leader penguin.
 Essentially, the ultimate free macro client with penguins included making it even better. Completely open source, anyone can contribute, and add more penguins.
 ## Contributing
 To contribute, you should:
